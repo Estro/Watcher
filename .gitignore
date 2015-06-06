@@ -1,0 +1,16 @@
+logs/*
+!.gitkeep
+node_modules/
+npm-debug.log
+.sass-cache/
+bower_components/
+tmp
+.DS_Store
+.idea
+Gemfile.lock
+*.sw*
+*~
+www/
+bin/
+deploy/
+/vendor/**/
